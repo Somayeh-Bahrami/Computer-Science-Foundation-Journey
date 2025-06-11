@@ -1,0 +1,1 @@
+This section documents my foundational programming studies, focusing primarily on Python as my primary language for computer science applications. The content aligns with Georgia Tech's Introduction to Python Programming Professional Certificate on edX, providing comprehensive coverage of essential programming concepts needed for graduate-level computer science coursework.
